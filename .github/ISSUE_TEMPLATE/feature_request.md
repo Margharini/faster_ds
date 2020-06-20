@@ -12,12 +12,10 @@ labels: 'fun1'
 assignees: 'create new feature like fit'
 
 
-
-name: Feature request
-about: Suggest an idea for this project
-title: 'marcin my function'
-labels: 'fun1'
-assignees: 'create new feature like fit'
+Suggest an idea for this project
+'marcin my function'
+'fun1'
+'create new feature like fit'
 
 ---
 
